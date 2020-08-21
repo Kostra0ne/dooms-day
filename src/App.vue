@@ -26,13 +26,13 @@ body {
   justify-content: center;
   height: 100vh;
   margin: 0;
-  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#4cc355+0,fa6607+50,e2071c+100 */
-  background: linear-gradient(
-    to bottom,
-    #4cc355 0%,
-    #fa6607 50%,
-    #e2071c 100%
-  );
+  background: #4cc355;
+  // background: linear-gradient(
+  //   to bottom,
+  //   #4cc355 0%,
+  //   #fa6607 50%,
+  //   #e2071c 100%
+  // );
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4cc355', endColorstr='#e2071c',GradientType=0 ); /* IE6-9 */
 }
 
